@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "time-horizon-task-family",
+  "repository": "https://github.com/jpgordon00/ci-time-horizon-task-family",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/time-horizon-task-family/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/time-horizon-task-family",
+  "catalog_commit": "c2be45e6ee0403d38cf146d1a540cf33ccd89065"
+}
